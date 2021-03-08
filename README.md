@@ -5,7 +5,9 @@ It works in TruckersMP.
 
 Installation:
 Put files dinput8.dll to your root game folder.
+
 win32 --> bin\win_x86
+
 win64 --> bin\win_x64 
 
 Using:

@@ -3,9 +3,9 @@ Truckers Functions
 Advanced modding engine and native plugins loader for Euro Truck Simulator 2.
 It works in TruckersMP.
 
-Installation:
-Put files dinput8.dll to your root game folder.
+> Installation:
+*BOLD* Put files dinput8.dll to your root game folder.
 win32 --> bin\win_x86
 win64 --> bin\win_x64 
 
-Using:
+> Using:

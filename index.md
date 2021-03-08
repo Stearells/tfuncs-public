@@ -14,4 +14,5 @@ Advanced modding engine and native plugins loader for Euro Truck Simulator 2.
 
 #### Download:
 [Latest Release](https://github.com/Stearells/tfuncs-public/releases/download/0.1.20/TFuncs_Release.tar "Latest Release")
+
 [All Releases](https://github.com/Stearells/tfuncs-public/releases "All Releases")

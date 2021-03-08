@@ -1,4 +1,4 @@
-# Truckers Functions
+Truckers Functions
 ---
 Advanced modding engine and native plugins loader for Euro Truck Simulator 2.
 It works in TruckersMP.

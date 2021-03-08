@@ -11,3 +11,5 @@ Advanced modding engine and native plugins loader for Euro Truck Simulator 2.
 ####  Using:
     Put your mods\plugins to Documents\Euro Truck Simulator 2\TFuncs
     Enjoy!
+
+[Download](https://github.com/Stearells/tfuncs-public/releases "Download")

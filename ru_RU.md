@@ -1,4 +1,6 @@
 ![](tf_logo.jpg)
+
+[Switch to English](https://stearells.github.io/tfuncs-public/ru_RU "Switch to Russian")
 # Truckers Functions
 ##### Загрузчик работает в [TruckersMP](https://truckersmp.com/ "TruckersMP").
 

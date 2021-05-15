@@ -1,7 +1,8 @@
 ![](tf_logo.jpg)
 # Truckers Functions
-##### It works in [TruckersMP](https://truckersmp.com/ "TruckersMP").
 
+[Switch to Russian](https://stearells.github.io/tfuncs-public/ru_RU "Switch to Russian")
+##### It works in [TruckersMP](https://truckersmp.com/ "TruckersMP").
 ####  Installation:
     Put files dinput8.dll to your root game folder.
     win32 >> bin\win_x86

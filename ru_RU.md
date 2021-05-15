@@ -14,5 +14,5 @@
     Веселитесь!
 
 #### Скачать:
-[Latest Release](https://github.com/Stearells/tfuncs-public/releases/download/0.1.20/TFuncs_Release.tar "Текущий релиз") | 
-[All Releases](https://github.com/Stearells/tfuncs-public/releases "Все релизы")
+[Текущий релиз](https://github.com/Stearells/tfuncs-public/releases/download/0.1.20/TFuncs_Release.tar "Текущий релиз") | 
+[Все релизы](https://github.com/Stearells/tfuncs-public/releases "Все релизы")
